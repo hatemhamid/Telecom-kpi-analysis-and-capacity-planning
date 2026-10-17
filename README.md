@@ -46,6 +46,17 @@ Evaluates three distinct forecasting architectures across rolling hold-out valid
 
 ---
 
+<img width="878" height="726" alt="scatter_datatraffictb_vs_prbdlutilization" src="https://github.com/user-attachments/assets/f4a216c3-839c-4651-a998-b3d5ad96b196" />
+<img width="2078" height="889" alt="combined_analysis_datatraffictb" src="https://github.com/user-attachments/assets/2deb7b53-6cc0-4f31-aa89-609e265020d2" />
+
+
+<img width="2083" height="1027" alt="regional_expansions_stacked" src="https://github.com/user-attachments/assets/fc43d87f-65d0-46b4-9e05-d9784f65e148" />
+<img width="1930" height="1326" alt="macro_traffic_forecast" src="https://github.com/user-attachments/assets/52bc857a-0b67-46f2-84f8-46ce0c1439ee" />
+<img width="1777" height="882" alt="configuration_before_vs_after" src="https://github.com/user-attachments/assets/9e0fdbfb-ca0f-4a29-8cce-644fd9b59606" />
+
+
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone & Install Dependencies
